@@ -83,18 +83,6 @@
 
 /* estilos.css */
 
-.formStyle {
-  color: black;
-  width: 60rem;
-  height: 15rem;
-  margin-bottom: 1.5rem;
-  display: block;
-  border: none;
-  background-color: white;
-  filter: drop-shadow(0 0.3rem 0 var(--jungleGreen));
-  resize: none;
-
-}
 @media screen and (min-width: 768px) {
   .header {
     display: flex;
